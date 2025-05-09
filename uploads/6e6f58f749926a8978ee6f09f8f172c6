@@ -1,0 +1,3 @@
+name,location,size,category,status,materials,managerId,technicianId
+Computer Lab 1,Building A - Room 101,30,computerLab,active,"[{""name"": ""Projector""}, {""name"": ""Whiteboard""}]",1,2
+Biology Lab,Building B - Room 203,25,medicineLab,active,"[{""name"": ""Microscope""}, {""name"": ""Specimen""}]",3,4
